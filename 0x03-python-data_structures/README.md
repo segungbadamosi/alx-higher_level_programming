@@ -108,7 +108,7 @@ Prototypes for functions written in this project:
 * **12. Switch**
   * [12-switch.py](./12-switch.py): Python program that switches the values of
   variable `a` and `b`.
-  * Completion of [this source code](https://github.com/holbertonschool/0x03.py/blob/master/12-switch_py).
+  * Completion of [this source code](https://github.com/segungbadamosi/alx-higher_level_programming/blob/master/0x03-python-data_structures/12-switch.py).
 
 * **13. Linked list palindrome**
   * [13-is_palindrome.c](./13-is_palindrome.c): C function that checks if a
