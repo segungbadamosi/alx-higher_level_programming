@@ -1,8 +1,4 @@
-/*
- * File: 0-print_dlistint.c
- * Auth: Brennan D Baraban
- */
-
+#!/bin/bash
 #include "lists.h"
 
 /**
