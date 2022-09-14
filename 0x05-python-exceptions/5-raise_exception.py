@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+# 5-raise_exception.py
+# Brennan D Baraban <375@holbertonschool.com>
+
+
 def raise_exception():
-    "raises a type exception"
-    raise TypeError("HiThere")
+    """Raise a TypeError exception."""
+    raise TypeError
